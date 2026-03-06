@@ -40,3 +40,18 @@ The dataset contains asset information such as:
 * cost center allocation
 
 The dataset can be used for financial analysis and reporting.
+
+## Asset Analytics Dashboard
+
+A Power BI dashboard is included in this project to visualize asset accounting data.
+
+The dashboard provides insights into:
+
+* total asset value
+* depreciation expenses
+* asset distribution by category
+* investment trends
+* cost center allocation
+
+This demonstrates how SAP financial data can be transformed into business intelligence reports.
+
