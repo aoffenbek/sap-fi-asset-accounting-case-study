@@ -1,0 +1,31 @@
+Asset ID	Asset Name	Category	Cost Center	Purchase Date	Cost	Useful Life (Years)	Annual Depreciation	Net Book Value
+100001	Dell Laptop	IT Equipment	IT100	1/10/2023	1500	3	500	1000
+100002	HP Laptop	IT Equipment	IT100	5/15/2023	1400	3	467	933
+100003	Lenovo Laptop	IT Equipment	IT100	2/1/2024	1300	3	433	867
+100004	MacBook Pro	IT Equipment	IT100	6/20/2024	2200	3	733	1467
+100005	Office Printer	Office Equipment	AD300	3/12/2024	600	5	120	480
+100006	Meeting Room TV	Office Equipment	AD300	11/2/2023	900	5	180	720
+100007	Desk Workstation	Office Equipment	AD300	4/18/2023	450	5	90	360
+100008	Server Rack	IT Infrastructure	IT200	9/10/2022	8000	6	1333	5333
+100009	Backup Server	IT Infrastructure	IT200	5/1/2022	12000	6	2000	8000
+100010	Network Switch	IT Infrastructure	IT200	2/15/2023	2500	6	417	2083
+100011	CNC Machine	Production	PR200	2/20/2022	20000	10	2000	18000
+100012	Packaging Machine	Production	PR200	6/15/2021	15000	8	1875	11250
+100013	Conveyor Belt	Production	PR200	1/8/2023	9000	8	1125	7875
+100014	Industrial Robot	Production	PR200	9/10/2020	50000	12	4167	33333
+100015	Laser Cutter	Production	PR200	12/1/2021	30000	10	3000	21000
+100016	Employee Laptop	IT Equipment	IT100	1/10/2023	1500	3	500	1000
+100017	Developer Laptop	IT Equipment	IT100	5/15/2023	1400	3	467	933
+100018	Projector	IT Equipment	IT100	2/1/2024	1300	3	433	867
+100019	Tablet	IT Equipment	IT100	6/20/2024	2200	3	733	1467
+100020	Video Conference System	IT Equipment	IT100	1/10/2023	1500	3	500	1000
+100021	Office Chairs	Office Equipment	AD300	4/18/2023	450	5	90	360
+100022	Conference Table	Office Equipment	AD300	4/18/2023	450	5	90	360
+100023	Reception Desk	Office Equipment	AD300	4/18/2023	450	5	90	360
+100024	Coffee Machine	Office Equipment	AD300	4/18/2023	450	5	90	360
+100025	Firewall	IT Infrastructure	IT200	9/10/2022	8000	6	1333	5333
+100026	Data Storage Unit	IT Infrastructure	IT200	5/1/2022	12000	6	2000	8000
+100027	UPS System	IT Infrastructure	IT200	2/15/2023	2500	6	417	2083
+100028	3D Printer	Production	PR200	2/20/2022	20000	10	2000	18000
+100029	Assembly Machine	Production	PR200	6/15/2021	15000	8	1875	11250
+100030	Quality Scanner	Production	PR200	1/8/2023	9000	8	1125	7875
