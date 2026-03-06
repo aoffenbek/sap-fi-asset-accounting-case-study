@@ -1,3 +1,5 @@
+![Asset Lifecycle](diagrams/asset-lifecycle.png)
+
 # SAP FI Asset Accounting Case Study
 
 ## Overview
