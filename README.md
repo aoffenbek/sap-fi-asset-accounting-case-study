@@ -26,3 +26,17 @@ analytics – reporting and dashboards
 SAP FI Asset Accounting
 Accounting process documentation
 ERP process understanding
+
+## Asset Dataset
+
+The project includes a simulated fixed asset register similar to a SAP FI-AA export.
+
+The dataset contains asset information such as:
+
+* asset category
+* purchase cost
+* depreciation
+* net book value
+* cost center allocation
+
+The dataset can be used for financial analysis and reporting.
